@@ -1,0 +1,5 @@
+R2: 0.600887
+MSE: 0.002382
+MAE: 0.038189
+Threshold: 0.6
+Classification accuracy (threshold rule): 1.000000
